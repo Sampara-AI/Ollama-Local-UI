@@ -1,0 +1,5 @@
+{
+  "name": "Ollama Mission Control",
+  "description": "A modern, Matrix-themed UI/UX for managing and interacting with local Ollama models. Features session history, code management, and a futuristic interface to streamline your local AI workflows.",
+  "requestFramePermissions": []
+}
